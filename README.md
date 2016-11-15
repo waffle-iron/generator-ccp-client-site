@@ -1,4 +1,9 @@
-# generator-ccp-client-site [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+[![NPM version][npm-image]][npm-url]
+[![Build Status][build-image]][build-url]
+[![Dependency Status][daviddm-image]][daviddm-url]
+
+# generator-ccp-client-site
+
 > Scaffolds out a new Jekyll project to use as a starting point for a client site.
 
 ## Installation
@@ -30,7 +35,7 @@ ISC © [Nicholas Scheurich](http://nick.scheurich.me)
 
 [npm-image]: https://badge.fury.io/js/generator-ccp-client-site.svg
 [npm-url]: https://npmjs.org/package/generator-ccp-client-site
-[travis-image]: https://travis-ci.org/the-advocate/generator-ccp-client-site.svg?branch=master
-[travis-url]: https://travis-ci.org/the-advocate/generator-ccp-client-site
+[build-image]: https://circleci.com/gh/the-advocate/generator-ccp-client-site.svg?style=shield
+[build-url]: https://circleci.com/gh/the-advocate/generator-ccp-client-site
 [daviddm-image]: https://david-dm.org/the-advocate/generator-ccp-client-site.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/the-advocate/generator-ccp-client-site
