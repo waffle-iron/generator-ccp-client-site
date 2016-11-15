@@ -44,7 +44,7 @@
   "repository": "the-advocate/generator-ccp-client-site",
   "scripts": {
     "prepublish": "gulp prepublish",
-    "test": "gulp"
+    "test": "mocha"
   },
   "license": "ISC"
 }
