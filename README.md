@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/the-advocate/generator-ccp-client-site.png?label=ready&title=Ready)](https://waffle.io/the-advocate/generator-ccp-client-site)
 [![NPM version][npm-image]][npm-url]
 [![Build Status][build-image]][build-url]
 [![Dependency Status][daviddm-image]][daviddm-url]
