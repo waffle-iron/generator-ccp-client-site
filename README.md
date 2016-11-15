@@ -25,7 +25,7 @@ yo ccp-client-site
 
 ## License
 
-ISC © [Nicholas Scheurich]()
+ISC © [Nicholas Scheurich](http://nick.scheurich.me)
 
 
 [npm-image]: https://badge.fury.io/js/generator-ccp-client-site.svg
