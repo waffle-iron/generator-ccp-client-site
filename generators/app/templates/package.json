@@ -1,0 +1,20 @@
+{
+  "name": "ccp-client-site",
+  "version": "1.0.0",
+  "description": "Startup script and mechanisms for processing static assets.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp && bundle exec jekyll serve --livereload"
+  },
+  "author": "The Advocate Digital Services <digitalservices@theadvocate.com>",
+  "license": "",
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-util": "^3.0.7",
+    "require-dir": "^0.3.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

@@ -1,0 +1,33 @@
+# The site
+title: <%= siteTitle %>
+description: <%= siteDescription %>
+google_analytics: UA-XXX-XXXX
+lang: en-us
+locale: en-us
+repository: "[https://github.com/example-repo]"
+url: <%= siteURL %>
+fonts:
+  - Chewy
+
+# The author
+author:
+  email: <%= authorEmail %>
+  twitter_username: <%= authorTwitterUsername %>
+  facebook_username: <%= authorFacebookUsername %>
+
+# The build
+source: src
+destination: .tmp/dist
+permalink: /:collection/:title/
+markdown: kramdown
+exclude:
+  - assets
+  - Gemfile*
+  - gulpfile.js
+  - node_modules
+  - package.json
+keep_files:
+  - assets/bundle.css
+  - assets/bundle.js
+  - assets/img
+timezone: <%= timeZone %>
